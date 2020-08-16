@@ -1,0 +1,177 @@
+Adepta Sororitas,Adepta Sororitas,-0.1655092592592594
+Adepta Sororitas,Adeptus Custodes,-0.17134259259259255
+Adepta Sororitas,Astra Militarum,0.1286574074074075
+Adepta Sororitas,Blood Angels,-0.15467592592592594
+Adepta Sororitas,Grey Knights,0.32865740740740745
+Adepta Sororitas,Iron Hands,0.034212962962962834
+Adeptus Custodes,Adepta Sororitas,0.08614713064713064
+Adeptus Custodes,Adeptus Custodes,0.03187362637362634
+Adeptus Custodes,Astra Militarum,0.08315567765567755
+Adeptus Custodes,Blood Angels,0.008369352869352809
+Adeptus Custodes,Cult Mechanicus,0.15059157509157506
+Adeptus Custodes,Deathwatch,0.09725824175824171
+Adeptus Custodes,Imperial Knights,-0.04440842490842495
+Adeptus Custodes,Officio Assassinorum,-0.14083699633699637
+Adeptus Custodes,Raven Guard,-0.16940842490842495
+Adeptus Custodes,Ultramarines,-0.10274175824175824
+Astra Militarum,Adepta Sororitas,-0.14075260718791033
+Astra Militarum,Adeptus Custodes,-0.05464149607679919
+Astra Militarum,Astra Militarum,-0.039979980256342806
+Astra Militarum,Blood Angels,0.08232431588901268
+Astra Militarum,Cult Mechanicus,0.017580726145422998
+Astra Militarum,Dark Angels,-0.07408594052124362
+Astra Militarum,Deathwatch,0.192580726145423
+Astra Militarum,Imperial Fists,-0.22408594052124364
+Astra Militarum,Imperial Knights,-0.10287381930912248
+Astra Militarum,Officio Assassinorum,-0.029641496076799223
+Astra Militarum,Raven Guard,-0.14075260718791033
+Astra Militarum,Salamanders,0.08841405947875636
+Astra Militarum,White Scars,0.4259140594787564
+Asuryani,Asuryani,-0.03732112394084197
+Asuryani,Drukhari,0.004722239845479148
+Asuryani,Harlequins,-0.014140372767133313
+Asuryani,Ynnari,0.04673925686249614
+Black Templars,Black Templars,0.013888888888888895
+Black Templars,Raven Guard,-0.013888888888888895
+Blood Angels,Astra Militarum,-0.07859788359788356
+Blood Angels,Black Templars,-0.4219312169312169
+Blood Angels,Blood Angels,-0.14066137566137532
+Blood Angels,Cult Mechanicus,0.03283068783068788
+Blood Angels,Imperial Fists,-0.09526455026455027
+Blood Angels,Imperial Knights,-0.2552645502645502
+Blood Angels,Iron Hands,0.2352116402116402
+Blood Angels,Raven Guard,-0.0219312169312168
+Blood Angels,Salamanders,0.17806878306878315
+Blood Angels,Space Wolves,0.17806878306878315
+Blood Angels,Ultramarines,0.21140211640211648
+Blood Angels,White Scars,0.17806878306878315
+Chaos Daemons,Chaos Daemons,-0.09157206119162642
+Chaos Daemons,Chaos Space Marines,-0.003438003220611996
+Chaos Daemons,Death Guard,0.056978663446054734
+Chaos Daemons,Renegade Knights,0.040311996779388015
+Chaos Daemons,Thousand Sons,-0.0022805958132045556
+Chaos Space Marines,Chaos Daemons,0.11805872095468373
+Chaos Space Marines,Chaos Space Marines,0.06899338411760741
+Chaos Space Marines,Death Guard,0.1289395068354695
+Chaos Space Marines,Renegade Guard,-0.07928560138963864
+Chaos Space Marines,Renegade Knights,-0.11087290297694025
+Chaos Space Marines,Thousand Sons,0.12011916051512339
+Chaos Space Marines,Ultramarines,-0.2459522680563053
+Crimson Fists,Crimson Fists,0.0
+Cult Mechanicus,Adeptus Custodes,-0.06229040950631859
+Cult Mechanicus,Astra Militarum,0.004376257160348063
+Cult Mechanicus,Blood Angels,0.15333459049368137
+Cult Mechanicus,Cult Mechanicus,0.09267592046001144
+Cult Mechanicus,Deathwatch,-0.27062374283965196
+Cult Mechanicus,Grey Knights,0.004376257160348063
+Cult Mechanicus,Imperial Fists,-0.14562374283965196
+Cult Mechanicus,Imperial Knights,-0.03213167934758843
+Cult Mechanicus,Officio Assassinorum,-0.11784596506187422
+Cult Mechanicus,Raven Guard,0.22937625716034804
+Cult Mechanicus,Salamanders,0.14437625716034796
+Dark Angels,Astra Militarum,0.0230019493177388
+Dark Angels,Dark Angels,0.017884990253411392
+Dark Angels,Imperial Knights,-0.04088693957115008
+Death Guard,Chaos Daemons,-0.015640637140637126
+Death Guard,Chaos Space Marines,0.130571484071484
+Death Guard,Death Guard,-0.05190714840714833
+Death Guard,Renegade Knights,-0.07276184926184925
+Death Guard,Thousand Sons,0.00973815073815082
+Deathwatch,Adepta Sororitas,0.06461805555555544
+Deathwatch,Astra Militarum,-0.061770833333333386
+Deathwatch,Blood Angels,0.1864930555555555
+Deathwatch,Dark Angels,0.1312847222222221
+Deathwatch,Deathwatch,-0.1187152777777778
+Deathwatch,Imperial Fists,0.08961805555555546
+Deathwatch,Imperial Knights,-0.20204861111111122
+Deathwatch,Iron Hands,-0.1353819444444445
+Deathwatch,Officio Assassinorum,-0.08538194444444452
+Deathwatch,White Scars,0.1312847222222221
+Drukhari,Asuryani,0.03576388888888893
+Drukhari,Drukhari,0.02709986772486761
+Drukhari,Harlequins,0.038409391534391546
+Drukhari,Ynnari,-0.10127314814814814
+Genestealer Cults,Astra Militarum,-0.1594659391534392
+Genestealer Cults,Genestealer Cults,0.06536044973544974
+Genestealer Cults,Tyranids,0.09410548941798935
+Grey Knights,Astra Militarum,0.011044776119403021
+Grey Knights,Blood Angels,-0.022288557213930305
+Grey Knights,Grey Knights,0.08915422885572144
+Grey Knights,Imperial Fists,0.011044776119403021
+Grey Knights,Raven Guard,-0.08895522388059696
+Harlequins,Asuryani,0.060257858083945015
+Harlequins,Drukhari,0.03558253340862039
+Harlequins,Harlequins,-0.08605307735742512
+Harlequins,Neutral Fortification,-0.021560323734236775
+Harlequins,Ynnari,0.011773009599096551
+Imperial Fists,Astra Militarum,0.4347323277136942
+Imperial Fists,Blood Angels,0.10139899438036082
+Imperial Fists,Imperial Fists,-0.02172729961549813
+Imperial Fists,Imperial Knights,-0.06526767228630581
+Imperial Fists,Raven Guard,-0.15193433895297254
+Imperial Fists,Salamanders,-0.06526767228630581
+Imperial Fists,White Scars,-0.2319343389529725
+Imperial Knights,Adeptus Custodes,0.038274642635427625
+Imperial Knights,Astra Militarum,0.09651299116632939
+Imperial Knights,Blood Angels,0.11595321406399905
+Imperial Knights,Cult Mechanicus,0.04109689222491858
+Imperial Knights,Imperial Fists,0.06178654739733247
+Imperial Knights,Imperial Knights,-0.009046785936000945
+Imperial Knights,Inquisition,-0.06321345260266759
+Imperial Knights,Iron Hands,0.20345321406399908
+Imperial Knights,Officio Assassinorum,0.1347032140639991
+Imperial Knights,Raven Guard,-0.06321345260266759
+Imperial Knights,Space Wolves,-0.12988011926933424
+Imperial Knights,Ultramarines,-0.22988011926933424
+Imperial Knights,White Scars,-0.1965467859360009
+Inquisition,Inquisition,0.0
+Inquisition,Neutral Fortification,0.0
+Iron Hands,Adeptus Custodes,-0.06538814614524402
+Iron Hands,Blood Angels,0.09016740941031154
+Iron Hands,Imperial Fists,-0.11122147947857736
+Iron Hands,Iron Hands,0.05055184183733108
+Iron Hands,Neutral Fortification,0.10127852052142261
+Iron Hands,Raven Guard,-0.06538814614524402
+Necrons,Necrons,0.0
+Officio Assassinorum,Neutral Fortification,0.0
+Officio Assassinorum,Officio Assassinorum,0.0
+Orks,Orks,0.0
+Raven Guard,Astra Militarum,0.06935846560846581
+Raven Guard,Blood Angels,0.04158068783068802
+Raven Guard,Cult Mechanicus,0.06935846560846581
+Raven Guard,Deathwatch,-0.23064153439153412
+Raven Guard,Imperial Fists,0.054914021164021554
+Raven Guard,Iron Hands,0.03602513227513249
+Raven Guard,Raven Guard,-0.054398148148148584
+Raven Guard,White Scars,0.013802910052910233
+Renegade Knights,Chaos Daemons,-0.006961083705269766
+Renegade Knights,Chaos Space Marines,0.03052691924784945
+Renegade Knights,Death Guard,0.071841225097039
+Renegade Knights,Renegade Guard,-0.20164362338780945
+Renegade Knights,Renegade Knights,0.03764209089790482
+Renegade Knights,Thousand Sons,0.06859447185028583
+Salamanders,Astra Militarum,-0.051178451178451156
+Salamanders,Imperial Fists,0.04882154882154882
+Salamanders,Salamanders,0.002356902356902335
+Space Wolves,Adeptus Custodes,-0.0071239837398373584
+Space Wolves,Astra Militarum,-0.14045731707317066
+Space Wolves,Cult Mechanicus,0.2928760162601627
+Space Wolves,Imperial Knights,-0.02170731707317064
+Space Wolves,Space Wolves,-0.12358739837398364
+T'au Empire,T'au Empire,0.0
+Thousand Sons,Chaos Daemons,0.0029892272079772297
+Thousand Sons,Chaos Space Marines,0.06829371438746445
+Thousand Sons,Death Guard,0.0089187143874645
+Thousand Sons,Thousand Sons,-0.08020165598290602
+Tyranids,Genestealer Cults,0.035964912280701866
+Tyranids,Tyranids,-0.035964912280701755
+Ultramarines,Chaos Space Marines,-0.013425925925926008
+Ultramarines,Renegade Knights,-0.013425925925926008
+Ultramarines,Ultramarines,0.02685185185185207
+White Scars,Cult Mechanicus,0.04299707602339187
+White Scars,Imperial Fists,-0.05700292397660811
+White Scars,Iron Hands,0.0863304093567252
+White Scars,Raven Guard,-0.09033625730994149
+White Scars,Salamanders,0.10966374269005852
+White Scars,White Scars,-0.09165204678362576
+Ynnari,Ynnari,0.0
